@@ -1,0 +1,7 @@
+{
+    "name": "bloge/starter-pack",
+    "description": "Simple example of how to use Bloge",
+    "require": {
+        "bloge/bloge": "dev-master"
+    }
+}
