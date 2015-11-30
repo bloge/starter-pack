@@ -1,7 +1,5 @@
 <?php
 
-require 'vendor/autoload.php';
-
 /**
  * Dead simple example of Bloge application
  * 
