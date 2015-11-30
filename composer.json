@@ -1,6 +1,6 @@
 {
     "name": "bloge/starter-pack",
-    "description": "Simple example of how to use Bloge",
+    "description": "Get started with dead-simple Bloge example",
     "require": {
         "bloge/bloge": "dev-master"
     }
